@@ -12,4 +12,4 @@ hello hello xz! hello git!
 hello hello xz! hello git!
 hello hello xz! hello git!
 hello hello xz! hello git!  master test
-hello hello xz! hello git!
+hello hello xz! hello git! hot-fix test
